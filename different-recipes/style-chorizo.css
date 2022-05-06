@@ -1,0 +1,22 @@
+body{
+    margin:10px;
+    background-color:beige;
+    text-align: center;
+}
+
+h1{
+    background-color:aquamarine;
+    padding: 20px;
+    font-size: 50px;
+
+}
+
+h2{
+    font-size: 30px;
+}
+
+ul li {
+    align-items: center;
+    list-style:none;
+    float:top;
+}
